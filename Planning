@@ -1,0 +1,10 @@
+1. download the data
+2. look for null values and fill them
+3. Feature engineering
+   correlation metrics and graphs
+4. Standard Scalar( SAve the scaler used in inference)
+5. train_test_split(DIY)
+6. LSTMs NN architecture (SAve the model)
+7. Write callbacks and checkpoints
+7. Predictions
+8. Inference
