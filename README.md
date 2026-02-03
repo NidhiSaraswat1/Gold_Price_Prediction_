@@ -1,6 +1,7 @@
 # Gold Price Prediction API
 
 A FastAPI-based REST API for predicting gold prices using an LSTM deep learning model.
+Website Live at: https://goldpricepredictionfrontend.vercel.app/
 
 ## Features
 
